@@ -76,7 +76,7 @@ shared["F​F​l​a​g​A​X​C​o​m​b​i​n​e​G​e​t​O​
     
     ["Conditions"] = {
         ['Forcefield'] = (true),
-        ['Visible'] = (true),
+        ['Visible'] = (false),
         ['Knocked'] = (true),
         ['Grabbed'] = (true),
         ['Typing'] = (true),
